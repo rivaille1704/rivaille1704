@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **rivaille1704/rivaille1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,7 +19,3 @@ Here are some ideas to get you started:
     👋 Chào mừng bạn đến với dự án của tôi! 🚀
   </marquee>
 </div>
-
-
-
--->
