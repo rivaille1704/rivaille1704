@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Chữ chạy trên README
+
+<div align="center">
+  <marquee behavior="scroll" direction="left" style="font-size: 20px; color: red;">
+    👋 Chào mừng bạn đến với dự án của tôi! 🚀
+  </marquee>
+</div>
+
+
+
 -->
