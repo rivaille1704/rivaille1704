@@ -1,7 +1,1 @@
-## Hi there 👋
-**rivaille1704/rivaille1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Chữ xuất hiện từ trái sang phải
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=00ffff&size=60&center=true&vCenter=true&width=1200&height=100&lines=Yo+%F0%9F%98%84;%F0%9F%91%8B+My+name+is+Âu+Trường+Giang.;You+can+call+me+James+Au.+%F0%9F%98%8E;I'm+doing+an+internship.;">
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Figtree&size=30&duration=4000&pause=1000&color=3484F7&background=FD1AFF00&width=435&lines=Hello!;My+name+is+L%C3%AA+Ho%C3%A0ng+Vi%E1%BB%87t;Are+you+a+fan+of+Japan%3F;If+yes%2C+then+we're+kindred+spirits!;If+yes%2C+then+we're+kindred+spirits!" alt="Typing SVG" /></a>
