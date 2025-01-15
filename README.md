@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Figtree&size=30&duration=4000&pause=1000&color=3484F7&background=FD1AFF00&width=435&lines=Hello!;My+name+is+L%C3%AA+Ho%C3%A0ng+Vi%E1%BB%87t;Are+you+a+fan+of+Japan%3F;If+yes%2C+then+we're+kindred+spirits!;If+yes%2C+then+we're+kindred+spirits!" alt="Typing SVG" /></a>
 
+- 🔭 I'm *an ungraduated student* at VNUHCM - University of Information Technology (UIT).
+- 🌍  I'm *based in* Ho Chi Minh City.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rivaille.ackerman.3532)
