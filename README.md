@@ -16,7 +16,6 @@
   <tr style="vertical-align: middle;">
     <td>
         <a href=https://github.com/rivaille1704/The-Knight-Has-Arrived> <h3>The Knight Has Arrived</h3> </a>
-      
     </td>
     <td>
         <a href=https://github.com/rivaille1704/My-Frostpunk-Website> <h3>My Frostpunk Website</h3> </a>
