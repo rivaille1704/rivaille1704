@@ -11,5 +11,18 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rivaille1704&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rivaille1704&theme=tokyonight&hide_border=true)<br/>
-
-
+# 🏹 My project:
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <h3>The Knight Has Arrived</h3>
+    ![image](https://github.com/user-attachments/assets/978f1413-b8b6-4393-9156-3ad8a5ae1577)
+  </div>
+  <div>
+    <h3>My Frostpunk Website</h3>
+    ![image](https://github.com/user-attachments/assets/a68360d3-907a-4794-b158-668bc176500f)
+  </div>
+  <div>
+    <h3>My First Machine Learning Research in Python</h3>
+    ![image](https://github.com/user-attachments/assets/296b9c47-6d9b-43ce-a673-357d32d2b44b)
+  </div>
+</div>
