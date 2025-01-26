@@ -15,24 +15,25 @@
 <table style="border-collapse: collapse; width: 100%; text-align: center;">
   <tr style="vertical-align: middle;">
     <td>
-      <h3>The Knight Has Arrived</h3>
+        <a href=https://github.com/rivaille1704/The-Knight-Has-Arrived> <h3>The Knight Has Arrived</h3> </a>
+      
     </td>
     <td>
-      <h3>My Frostpunk Website</h3>
+        <a href=https://github.com/rivaille1704/My-Frostpunk-Website> <h3>My Frostpunk Website</h3> </a>
     </td>
     <td>
-      <h3>My First Machine Learning Research in Python</h3>
+        <a href=https://github.com/rivaille1704/My-First-Machine-Learning-Research-in-Python> <h3>My First Machine Learning Research in Python</h3> </a>
     </td>
   </tr>
   <tr style="vertical-align: middle;">
     <td>
-      <img src="https://github.com/user-attachments/assets/978f1413-b8b6-4393-9156-3ad8a5ae1577" alt="The Knight Has Arrived" width="150">
+        <a href=https://github.com/rivaille1704/The-Knight-Has-Arrived> <img src="https://github.com/user-attachments/assets/978f1413-b8b6-4393-9156-3ad8a5ae1577" alt="The Knight Has Arrived" width="150"> </a>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/a68360d3-907a-4794-b158-668bc176500f" alt="My Frostpunk Website" width="150">
+        <a href=https://github.com/rivaille1704/My-Frostpunk-Website> <img src="https://github.com/user-attachments/assets/a68360d3-907a-4794-b158-668bc176500f" alt="My Frostpunk Website" width="150"> </a>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/296b9c47-6d9b-43ce-a673-357d32d2b44b" alt="My First Machine Learning Research in Python" width="150">
+        <a href=https://github.com/rivaille1704/My-First-Machine-Learning-Research-in-Python> <img src="https://github.com/user-attachments/assets/296b9c47-6d9b-43ce-a673-357d32d2b44b" alt="My First Machine Learning Research in Python" width="150"> </a>
     </td>
   </tr>
 </table>
